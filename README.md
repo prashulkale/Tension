@@ -1,13 +1,11 @@
 
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind 
+ Notion Clone: Next.js 13, React, Convex, Tailwind 
 
 ### Prerequisites
 
 **Node version 18.x.x**
-
-### Cloning the repository
-
+]
 
 
 ### Install packages
