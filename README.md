@@ -8,9 +8,7 @@ This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tail
 
 ### Cloning the repository
 
-```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
-```
+
 
 ### Install packages
 
